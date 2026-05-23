@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm cse-gable
+# Hi, I'm gable-code-create
 
 ### Developer | Builder | Lifelong Learner
 
@@ -42,11 +42,11 @@ I enjoy turning ideas into practical, polished software. This profile is a quick
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cse-gable&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gable-code-create&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cse-gable&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gable-code-create&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=cse-gable&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=gable-code-create&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -54,9 +54,9 @@ I enjoy turning ideas into practical, polished software. This profile is a quick
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [Project One](https://github.com/cse-gable/project-one) | TODO: Add a short sentence about your best project. | TODO |
-| [Project Two](https://github.com/cse-gable/project-two) | TODO: Add another project that shows your range. | TODO |
-| [Project Three](https://github.com/cse-gable/project-three) | TODO: Add a project you are proud to discuss. | TODO |
+| [Project One](https://github.com/gable-code-create/project-one) | TODO: Add a short sentence about your best project. | TODO |
+| [Project Two](https://github.com/gable-code-create/project-two) | TODO: Add another project that shows your range. | TODO |
+| [Project Three](https://github.com/gable-code-create/project-three) | TODO: Add a project you are proud to discuss. | TODO |
 
 ## Current Focus
 
@@ -70,7 +70,7 @@ I am always interested in meaningful projects, practical ideas, and good convers
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-cse--gable-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cse-gable)
+[![GitHub](https://img.shields.io/badge/GitHub-gable--code--create-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gable-code-create)
 [![Email](https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngabe768@gmail.com)
 
 </div>
