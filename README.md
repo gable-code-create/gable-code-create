@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm gable-code-create
+# Hi, my name is Nathan
 
 ### Developer | Builder | Lifelong Learner
 
@@ -49,9 +49,7 @@ I enjoy turning ideas into practical, polished software. This profile is a quick
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| HomeV2 | AI assistant project focused on helpful conversation, task support, and a polished user experience. | TODO |
-| Project Two | TODO: Add another project that shows your range. | TODO |
-| Project Three | TODO: Add a project you are proud to discuss. | TODO |
+| HomeV2 | AI assistant project focused on helpful conversation, task support, and a polished user experience. In development / prototyping. | AI assistant, full-stack development |
 
 ## Current Focus
 
