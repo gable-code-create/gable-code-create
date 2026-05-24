@@ -6,9 +6,7 @@
 
 I enjoy turning ideas into practical, polished software. This profile is a quick look at what I am building, learning, and exploring.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-ngabe768%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngabe768@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-gable--code--create-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gable-code-create)
 
 </div>
 
@@ -32,19 +30,16 @@ I enjoy turning ideas into practical, polished software. This profile is a quick
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gable-code-create&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gable-code-create&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gable-code-create&theme=tokyonight&hide_border=true)
 
@@ -54,9 +49,9 @@ I enjoy turning ideas into practical, polished software. This profile is a quick
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [Project One](https://github.com/gable-code-create/project-one) | TODO: Add a short sentence about your best project. | TODO |
-| [Project Two](https://github.com/gable-code-create/project-two) | TODO: Add another project that shows your range. | TODO |
-| [Project Three](https://github.com/gable-code-create/project-three) | TODO: Add a project you are proud to discuss. | TODO |
+| HomeV2 | AI assistant project focused on helpful conversation, task support, and a polished user experience. | TODO |
+| Project Two | TODO: Add another project that shows your range. | TODO |
+| Project Three | TODO: Add a project you are proud to discuss. | TODO |
 
 ## Current Focus
 
@@ -71,6 +66,5 @@ I am always interested in meaningful projects, practical ideas, and good convers
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-gable--code--create-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gable-code-create)
-[![Email](https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngabe768@gmail.com)
 
 </div>
